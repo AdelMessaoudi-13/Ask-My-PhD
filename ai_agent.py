@@ -1,7 +1,7 @@
 from __future__ import annotations as _annotations
 
 from dataclasses import dataclass
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 import logfire
 import os
 
@@ -11,7 +11,7 @@ from openai import AsyncOpenAI
 from supabase import Client
 from typing import List
 
-#load_dotenv()
+load_dotenv()
 
 llm = os.getenv('LLM_MODEL', 'gpt-4o-mini')
 model = OpenAIModel(llm)

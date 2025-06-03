@@ -24,8 +24,8 @@ from pydantic_ai.messages import (
 from ai_agent import pydantic_ai_agent, PydanticAIDeps
 
 # Load environment variables
-#from dotenv import load_dotenv
-#load_dotenv()
+from dotenv import load_dotenv
+load_dotenv()
 
 openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 supabase: Client = Client(
