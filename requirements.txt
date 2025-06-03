@@ -1,0 +1,17 @@
+# Core AI and ML libraries
+openai
+mistralai
+pydantic-ai
+
+# Database and vector search
+supabase
+pgvector
+
+# Web framework and UI
+streamlit
+
+# Data processing and utilities
+python-dotenv
+
+# Logging and monitoring
+logfire
