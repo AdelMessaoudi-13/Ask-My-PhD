@@ -147,5 +147,5 @@ The original license from Cole Medin is included in the [`THIRD_PARTY_LICENSES`]
 ## 👤 Author
 
 **Adel Messaoudi**  
-🎓 PhD in Applied Mathematics and Mechanics   
-🌐 [Mail](amessaoudi.am@gmail.com)  
+🎓 PhD in Applied Mathematics and Mechanics  
+✉️ [amessaoudi.am@gmail.com](mailto:amessaoudi.am@gmail.com) 
