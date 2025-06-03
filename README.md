@@ -5,14 +5,14 @@
   <a href="https://theses.fr/2023AIXM0306">
     <img src="https://img.shields.io/badge/PhD%20Thesis-Access-blue?logo=academia" alt="PhD Thesis"/>
   </a>
+  <a href="https://huggingface.co/spaces/AdelMessaoudi-13/Ask-My-PhD">
+    <img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-orange?logo=huggingface" alt="Live Demo on Hugging Face"/>
+  </a>
   <a href="https://github.com/AdelMessaoudi-13">
     <img src="https://img.shields.io/badge/GitHub-AdelMessaoudi--13-black?logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/adel-messaoudi-831358132">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://huggingface.co/AdelMessaoudi-13">
-    <img src="https://img.shields.io/badge/HuggingFace-Spaces-orange?logo=huggingface" alt="Hugging Face"/>
   </a>
 </p>
 
