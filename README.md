@@ -137,6 +137,6 @@ The original license from Cole Medin is included in the [`THIRD_PARTY_LICENSES`]
 **Adel Messaoudi**  
 🎓 PhD in Applied Mathematics and Mechanics  
 📄 [Access my PhD thesis](https://theses.fr/2023AIXM0306)  
+🌐 [GitHub](https://github.com/AdelMessaoudi-13)  
 🔗 [LinkedIn](https://www.linkedin.com/in/adel-messaoudi-831358132)  
-🔗 [GitHub](https://github.com/AdelMessaoudi-13)  
-🔗 [Hugging Face](https://huggingface.co/AdelMessaoudi-13)
+🤗 [Hugging Face](https://huggingface.co/AdelMessaoudi-13)
