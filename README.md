@@ -1,6 +1,7 @@
 # 🎓 Ask My PhD — An AI Agent to Explore My Thesis
 
 <p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
   <a href="https://theses.fr/2023AIXM0306">
     <img src="https://img.shields.io/badge/PhD%20Thesis-Access-blue?logo=academia" alt="PhD Thesis"/>
   </a>
@@ -13,10 +14,6 @@
   <a href="https://huggingface.co/AdelMessaoudi-13">
     <img src="https://img.shields.io/badge/HuggingFace-Spaces-orange?logo=huggingface" alt="Hugging Face"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
 </p>
 
 An interactive AI assistant that helps users **explore**, **understand**, and **ask questions** about my PhD thesis using natural language and a Retrieval-Augmented Generation (RAG) system.
