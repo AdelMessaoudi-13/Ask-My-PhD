@@ -1,6 +1,13 @@
 # 🎓 Ask My PhD — An AI Agent to Explore My Thesis
 
 <p align="center">
+  <a href="https://theses.fr/2023AIXM0306">📄 PhD Thesis</a> •
+  <a href="https://github.com/AdelMessaoudi-13">🌐 GitHub</a> •
+  <a href="https://www.linkedin.com/in/adel-messaoudi-831358132">🔗 LinkedIn</a> •
+  <a href="https://huggingface.co/AdelMessaoudi-13">🤗 Hugging Face</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"/>
 </p>
 
@@ -135,8 +142,5 @@ The original license from Cole Medin is included in the [`THIRD_PARTY_LICENSES`]
 ## 👤 Author
 
 **Adel Messaoudi**  
-🎓 PhD in Applied Mathematics and Mechanics  
-📄 [Access my PhD thesis](https://theses.fr/2023AIXM0306)  
-🌐 [GitHub](https://github.com/AdelMessaoudi-13)  
-🔗 [LinkedIn](https://www.linkedin.com/in/adel-messaoudi-831358132)  
-🤗 [Hugging Face](https://huggingface.co/AdelMessaoudi-13)
+🎓 PhD in Applied Mathematics and Mechanics   
+🌐 [Mail](amessaoudi.am@gmail.com)  
