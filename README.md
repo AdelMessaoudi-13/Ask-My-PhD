@@ -44,7 +44,7 @@ This app makes my thesis more accessible by allowing users to:
 
 - `Mistral OCR` (PDF text extraction)
 - `PydanticAI` (agent orchestration)
-- `Supabase` + `pgvector` (semantic search backend)
+- `Supabase` (storage of chunks and semantic search)
 - `OpenAI` (GPT-4o mini + embeddings)
 - `Streamlit` (user interface)
 
