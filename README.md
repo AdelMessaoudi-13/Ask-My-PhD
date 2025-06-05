@@ -36,14 +36,14 @@ This app makes my thesis more accessible by allowing users to:
 - 🔍 Semantic search with vector embeddings
 - 🧾 OCR extraction using **Mistral OCR**
 - 📖 Structured access to chapters and sections
-- 🤖 Powered by `pydantic-ai`, `Supabase`, and `OpenAI`
+- 🤖 Powered by `PydanticAI`, `Supabase`, and `OpenAI`
 
 ---
 
 ## 🛠️ Tech Stack
 
 - `Mistral OCR` (PDF text extraction)
-- `pydantic-ai` (agent orchestration)
+- `PydanticAI` (agent orchestration)
 - `Supabase` + `pgvector` (semantic search backend)
 - `OpenAI` (GPT-4o mini + embeddings)
 - `Streamlit` (user interface)
@@ -148,4 +148,4 @@ The original license from Cole Medin is included in the [`THIRD_PARTY_LICENSES`]
 
 **Adel Messaoudi**  
 🎓 PhD in Applied Mathematics and Mechanics  
-✉️ [amessaoudi.am@gmail.com](mailto:amessaoudi.am@gmail.com) 
+✉️ [amessaoudi.am@gmail.com](mailto:amessaoudi.am@gmail.com)
