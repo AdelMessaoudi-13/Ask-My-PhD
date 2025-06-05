@@ -57,7 +57,7 @@ To deploy and run this RAG agent locally with your own thesis:
 ### 1. Prerequisites
 
 - Python 3.11+
-- A Supabase project with `pgvector` enabled
+- A Supabase project
 - OpenAI API key
 - Mistral API key
 
