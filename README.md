@@ -97,7 +97,6 @@ In the Supabase dashboard:
 This will:
 
 - Create the `document_chunks` table
-- Enable `pgvector` for semantic search
 - Define the `match_document_chunks()` function
 - Add relevant indexes and RLS policies
 
